@@ -1,3 +1,11 @@
 <template>
-    
+    <div>
+  <input
+    type="url"
+    autofocus="true"
+    placeholder="..."
+    value="http://alibaba.github.io/weex/"
+    style="placeholder-color: #666666;">
+  </input>
+</div>
 </template>
